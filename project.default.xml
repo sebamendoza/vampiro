@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.general" />
+        <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
